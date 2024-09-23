@@ -5,7 +5,6 @@
 		<artifactId>plugin</artifactId>
 		<version>4.74</version>
 	</parent>
-
 	<properties>
 		<jenkins.version>2.414.3</jenkins.version>
 		<findbugs.failOnError>false</findbugs.failOnError>
